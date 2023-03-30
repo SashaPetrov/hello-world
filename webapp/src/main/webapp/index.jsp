@@ -7,7 +7,7 @@
       <label for="email"><b>Enter Email</b></label>
       <input type="text" placeholder="Enter Email" name="email" id="email" required>
       <br>
-      "Hello"
+      <b>"Hello from Petrov"</b>
       <br>
       
       <label for="psw"><b>Password</b></label>
