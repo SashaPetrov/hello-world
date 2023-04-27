@@ -1,6 +1,10 @@
 <form action="action_page.php">
     <div class="container">
-      <b>Hello to all!!!</b>
+<<<<<<< HEAD
+      <b>Hello to all!!!!!!!!!</b>
+=======
+      <b>Hi!!!</b>
+>>>>>>> c9efbc9f3ae9db588efa5d293fe4b6f6b923f13f
       <br>
       <h1>Register</h1>
       <p>Please fill in this form to create an account.</p>
